@@ -1,5 +1,6 @@
-const FooterV = () => {
+import "./Footer.css";
 
+const FooterV = () => {
   return (
     <footer className="footer-v1">
       <div className="divider-wrapper">
@@ -55,7 +56,7 @@ const FooterV = () => {
                 <div className="ai-img-detector">AI IMG Detector</div>
                 <div className="catalog">Catalog</div>
                 <div className="goods-gift">Goods Gift</div>
-                <div className="privat-chat">Privat Chat</div>
+                <div className="private-chat">Private Chat</div>
                 <div className="updates">Updates</div>
               </div>
             </div>

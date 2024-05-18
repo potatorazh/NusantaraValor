@@ -1,5 +1,8 @@
 import "./HomePage.css";
 
+import "../components/Navbar";
+import "../components/Footer";
+
 const HomePage = () => {
   return (
     <div className="home-page">
