@@ -13,6 +13,9 @@ function App() {
     
       <Routes>
         <Route path="/" Component={HomePage} />
+        <Route path="/" Component={SignUp} />
+      
+
         {/* Manggil halaman yang lain */}
      
       </Routes>
