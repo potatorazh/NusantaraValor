@@ -107,7 +107,7 @@ const HomePage = () => {
         </section>
         <section className="frame-section">
         <div className="terbaru-parent">
-          <h1 className="terbaru">Terbaru</h1>
+          <h1 className="terbaru">Terbaru Nich</h1>
           <div className="card-parent">
             <div className="card">
               <img
